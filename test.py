@@ -1,6 +1,6 @@
 import analyser.reply_generator as ds
 
-@test
+# no tests required
 def response_test(test_query):
     ds.get_response(test_query)
 
