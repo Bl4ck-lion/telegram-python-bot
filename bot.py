@@ -4,7 +4,7 @@ from telegram.ext import *
 from chatterbot import ChatBot
 import analyser.reply_generator as ds
 
-BOT_TOKEN = #<PASTE YOUR TOKEN HERE>
+BOT_TOKEN = 6212580248:AAFxVPGRDgz0k4vYbSkE_bwv7E5id0D6YqU
 
 bot = Bot(BOT_TOKEN)
 updater = Updater(BOT_TOKEN,use_context = True)
